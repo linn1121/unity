@@ -9,9 +9,9 @@
 今日進度:  
   
 [確認專案啟動，專案名稱待訂]  
-[專案世界觀初步完成，見附件: [WordView] ]
+[專案世界觀初步完成，見附件: [WordView](https://github.com/linn1121/unity/blob/1688621d98d728529c879c69c338617d6fbda6bf/Document/Word%20View.txt
+) ]
 遇到的問題與困難:  
-[WordView] :https://github.com/linn1121/unity/blob/1688621d98d728529c879c69c338617d6fbda6bf/Document/Word%20View.txt
 [描述今日遇到的任何技術或專案相關問題]  
 [嘗試解決的方法以及結果]  
 優先處理事項:  
